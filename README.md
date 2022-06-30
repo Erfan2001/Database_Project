@@ -1,6 +1,6 @@
- # Database Project
- 
- Design of a two-stroke traffic light control system by a microcontroller
+# Database Project
+
+ Normalization Art Gallery Databse
 
  *Created By Erfan Nourbakhsh*
  *Spring 2022*
