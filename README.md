@@ -17,6 +17,6 @@ The diagram below illustrates the structural layout of an art gallery, comprisin
 
 ![image](https://github.com/Erfan2001/Database_Project/assets/69463039/bd2f4ccf-36c2-497a-89df-cd31f7583833)
 
- *Created By Erfan Nourbakhsh*
+ *Implemented By Erfan Nourbakhsh*
  
  *Spring 2022*
