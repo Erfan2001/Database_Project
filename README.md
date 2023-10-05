@@ -15,4 +15,5 @@ Attributes highlighted in purple denote foreign keys.
 ![image](https://github.com/Erfan2001/Database_Project/assets/69463039/bd2f4ccf-36c2-497a-89df-cd31f7583833)
 
  *Created By Erfan Nourbakhsh*
+ 
  *Spring 2022*
